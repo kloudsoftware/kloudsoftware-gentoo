@@ -1,2 +1,2 @@
 # kloudsoftware-gentoo
-The kloudsoftware very own gentoo overlay
+The kloudsoftware gentoo overlay
